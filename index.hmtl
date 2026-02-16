@@ -86,7 +86,11 @@
     <div id="timer-display">Wait for it...</div>
     <button id="gift-button">Push for Gift 🎁</button>
 
-    <div id="gift-container" style="max-width: 500px; margin: auto;">
+    <div id="gift-container" style="max-width: 400px; margin: auto;">
+        <marquee width="60%" direction="left" height="100px">
+❄️ <strong>You just got secret snowflaked!</strong><br><br>
+                Please enjoy your $20 Nintendo gift card and the switch game you will buy with it.
+</marquee>
         <div style="position: relative; padding-bottom: 177.77%; height: 0; overflow: hidden; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
             <iframe 
                 id="gift-video"
